@@ -24,4 +24,7 @@ Hi, I'm Freek, a passionate handball player, <br>tech enthusiast, and fitness fa
 ---
 [![](https://visitcount.itsvg.in/api?id=FreekBoes&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FreekBoes/count.svg?"  />
+</div>
+
